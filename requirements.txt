@@ -1,0 +1,7 @@
+flask
+transformers
+gtts
+spacy
+deep_translator
+beautifulsoup4
+requests
